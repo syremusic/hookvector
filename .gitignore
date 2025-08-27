@@ -1,0 +1,7 @@
+# Ignore lyrics database dump
+lrclib-db-dump-*.sqlite3
+lrclib-db-dump-*.sqlite3-shm
+lrclib-db-dump-*.sqlite3-wal
+
+# Ignore lyrics data
+*.json
